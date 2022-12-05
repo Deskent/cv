@@ -12,7 +12,7 @@
 
 ## Ключевые навыки
     * Python 3.7+, FastAPI, SQLAlchemy, PostgreSQL, Pytest, Django, Flask
-    * Git, Docker, Redis, HTML/CSS
+    * Git, Docker, Redis, HTML/CSS, Linux
 
 ## Опыт работы
 ### Python-разработчик: Август 2022 — по настоящее время (5 месяцев)
