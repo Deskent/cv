@@ -3,7 +3,7 @@
 ###### <center>Санкт-Петербург, Россия</center>
 ###### <center>График работы: гибкий график, полный день, удаленная работа</center>
 
-|                              <center>+7 921 647 8292 | <center><https://t.me/Deskent> | <center>[battenetciz@gmail.com](battenetciz@gmail.com) | <center><https://github.com/Deskent> |
+|                             <center><https://t.me/Deskent> | <center>[battenetciz@gmail.com](battenetciz@gmail.com) | <center><https://github.com/Deskent> |
 |-----------------------------------------------------:|-----------------------------------------:|----------------------------------:|------------------------------------------------------------------|
 
 ### Навыки:
