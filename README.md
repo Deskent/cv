@@ -6,9 +6,9 @@
 |<center><https://t.me/Deskent> | <center>[battenetciz@gmail.com](battenetciz@gmail.com) | <center><https://github.com/Deskent> |
 
 ### Навыки:
-| Python 3.7+     |   FastAPI    |      SQLAlchemy |       <center>Asyncio | Pytest |  Django  | <center>Flask  | RabbitMQ  | PostgreSQL |
+| Python 3.7+     |   FastAPI    |      SQLAlchemy |       <center>Asyncio | Pytest | RabbitMQ  | PostgreSQL |
 |-----------------|:------------:|----------------:|--------------:|-------:|---------:|---------------:|----------:|-----------:|
-| <center>Redis   | <center>Git  | <center>Docker  | Docker Swarm  | Linux  | React.js |       HTML/CSS |           |            |
+| <center>Redis   | <center>Git  | <center>Docker  | Docker Swarm  | Linux  | React.js |       HTML/CSS |
 
 ### Опыт работы
 #### Python-разработчик: Апрель 2023 — По настоящее время
