@@ -3,8 +3,8 @@
 ###### <center>Санкт-Петербург, Россия</center>
 ###### <center>График работы: гибкий график, полный день, удаленная работа</center>
 
-|                             <center><https://t.me/Deskent> | <center>[battenetciz@gmail.com](battenetciz@gmail.com) | <center><https://github.com/Deskent> |
-|-----------------------------------------------------:|------------------------------------------------------------------|
+|<center><https://t.me/Deskent> | <center>[battenetciz@gmail.com](battenetciz@gmail.com) | <center><https://github.com/Deskent> |
+|------------------------------:|-------------------------------------------------------:|--------------------------------------|
 
 ### Навыки:
 | Python 3.7+     |   FastAPI    |      SQLAlchemy |       <center>Asyncio | Pytest |  Django  | <center>Flask  | RabbitMQ  | PostgreSQL |
