@@ -1,8 +1,5 @@
 **/.idea
-**/md-pdf-converter
-*.sh
 *.zip
-**convert
 
 ### Python template
 # Byte-compiled / optimized / DLL files
